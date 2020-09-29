@@ -1,4 +1,4 @@
-# Formal_Languages_and_Computability
+# Formal Languages and Computability
 
 The Grephy tool is based off the Grephy Utility and is meant to mirror features by using regex to find matches within an input file.
 
